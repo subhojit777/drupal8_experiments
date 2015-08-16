@@ -1,0 +1,7 @@
+
+node status get request:
+  title: 'Node status resource GET request'
+  description: 'Allow GET request to node status resource'
+node status post request:
+  title: 'Node status resource POST request'
+  description: 'Allow POST request to node status resource'

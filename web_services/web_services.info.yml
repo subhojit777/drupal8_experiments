@@ -1,0 +1,5 @@
+name: Web services
+type: module
+description: Experiments with REST modules in Drupal 8 core
+core: 8.x
+package: Other
