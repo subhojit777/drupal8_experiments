@@ -62,7 +62,6 @@ class NodeStatusResource extends ResourceBase {
     parent::__construct($configuration, $plugin_id, $plugin_definition, $serializer_formats, $logger);
 
     $this->currentUser = $current_user;
-    $this->node = $node;
   }
 
   /**
